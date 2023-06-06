@@ -1,0 +1,31 @@
+RADAR GRAPH
+
+vel max 
+cavalli 
+tempo acc
+rapport peso/potenza
+coppia : potenza sulla ruota
+
+Accelerazione
+10 s = 0
+1.9 s = 10
+
+
+rapporto peso potenza 
+0.79 kg/cv = 10 
+15.1 kg/cv = 0
+
+vel max 
+355 km/h = max 
+150 km/h = min 
+
+cavalli 
+800 cv = max
+69 cv = min
+
+
+coppia 
+1050 Nm = max 
+90 Nm = min
+
+data_norm = (data - data.min())/ (data.max() - data.min())

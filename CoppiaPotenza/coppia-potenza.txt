@@ -1,0 +1,7 @@
+limiti formula :
+c = (p*60)/v*2pi 
+
+v in giri al minuto 
+
+c = p/0.57 
+0.57 costante 
